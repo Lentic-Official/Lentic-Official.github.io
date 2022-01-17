@@ -1,0 +1,19 @@
+body {
+      font-family: "Fira Sans", sans-serif;
+      font-size: 14pt;
+}
+ .content {
+      max-width: 500px;
+      margin: auto;
+      text-align: center;
+}
+h1 {
+    color:"red;"
+}
+button {
+    font-family: "Fira Sans", sans-serif;
+    font-size: 12pt;
+}
+footer {
+    background-color: aqua;
+}
